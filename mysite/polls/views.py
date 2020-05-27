@@ -13,6 +13,6 @@ def current_datetime(request):
 
 
 def gitPull(request):
-    os.system("");
+    os.system("GIT_DIR=/root/python-study/.git/ git pull");
     html = "<html><body>It is n3</body></html>"
     return HttpResponse(html)
