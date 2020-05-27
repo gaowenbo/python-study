@@ -13,3 +13,5 @@ headers = {'Content-Type': 'application/json; charset=utf-8'}
 res = requests.post(url=url, headers=headers, data=json.dumps(data)).text
 
 print(res)
+
+res = requests.post(url="https://server.yueyiwenhua.cn/push", headers=headers).text
