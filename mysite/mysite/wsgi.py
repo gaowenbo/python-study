@@ -12,5 +12,12 @@ import os
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
+from django.utils.deprecation import MiddlewareMixin
+from django.middleware.csrf import get_token
+
+
+class CsrfTokenMiddleware(MiddlewareMixin):
+    def process_request(self, request):
+        get_token(request)
 
 application = get_wsgi_application()
