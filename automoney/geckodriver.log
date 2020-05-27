@@ -1,0 +1,993 @@
+1586425820673	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.HBkwi6qjEBkK"
+1586425821158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586425821158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586425823587	Marionette	INFO	Listening on port 53918
+1586425823821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586425825235	Marionette	INFO	Stopped listening on port 53918
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 19816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chan[Child 14612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 19816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+10220,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586425840163	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.GxmSz66AQAAj"
+1586425840515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586425840515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586425842752	Marionette	INFO	Listening on port 53962
+1586425842782	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6788, C[Parent 19316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9388, C[Parent 19316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19716, C1586425860619	Marionette	INFO	Stopped listening on port 53962
+[GPU 19500, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586479066239	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.W4zFeJoa8MWA"
+1586479068255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586479068256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586479072580	Marionette	INFO	Listening on port 55862
+1586479073077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586479109335	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.ixdXcXfodVyV"
+1586479110924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586479110924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586479113110	Marionette	INFO	Listening on port 55983
+1586479113455	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c[Chihladn n190e2l8_,w iCnh.rcocm,e _ChliilndeT h3r3e2a
+d] WARNING: pipe[ Cerror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19028, C[Parent 24932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1586479135549	Marionette	INFO	Stopped listening on port 55983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[libpng warning: iCCP: cHRM chunk does not match sRGB
+1586479581476	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.iksCkjgD7B0n"
+1586479583345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586479583345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586479584811	Marionette	INFO	Listening on port 56937
+1586479585095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-0948aa26f1.js, line 1: ReferenceError: define is not defined
+JavaScript error: https://www.baidu.com/, line 290: ReferenceError: F is not defined
+JavaScript error: https://www.baidu.com/, line 290: ReferenceError: F is not defined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/min_super-42c1ac872c.js, line 1: ReferenceError: F is not defined
+[Child 20580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20580, C[Child 23892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23892, Ch[Parent 26176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13636, Chro1586479619734	Marionette	INFO	Stopped listening on port 56937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18324libpng warning: iCCP: cHRM chunk does not match sRGB
+1586479704474	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.whZ46VRGwAsW"
+1586479704885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586479704885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586479706441	Marionette	INFO	Listening on port 57137
+1586479706523	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 23716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 25316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Child 26252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26252, 1586479781213	Marionette	INFO	Stopped listening on port 57137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22304, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+t-76fd36cbf7.css
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/sbase-0948aa26f1.js, line 70: Error: load js timeout : https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superui/js/ubase_5a7b0933.js
+[Parent 11200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 25680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 25680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[Parent 11200, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 11200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14636, Chrome_Chi1586479783822	Marionette	INFO	Stopped listening on port 57227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5220, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480015027	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.UTFR3cW9cvjd"
+1586480016700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480016700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480018175	Marionette	INFO	Listening on port 57481
+1586480018646	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23372, Chrome_Ch[Child 24740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24740, C[Parent 17136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23112, Chrome1586480335193	Marionette	INFO	Stopped listening on port 57481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+rome/common/ipc_channel_win.cc, line 332
+[Child 23428, Chro[Child 9920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9920, Chro[Parent 8644, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1586480188935	Marionette	INFO	Stopped listening on port 57633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23148, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480199504	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.P0IecWawsWCs"
+1586480200892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480200892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480202272	Marionette	INFO	Listening on port 57712
+1586480202622	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[
+Child 21396, Chro[mChilde_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21396, Ch[Parent 25976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23504, Ch1586480333837	Marionette	INFO	Stopped listening on port 57712
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480357523	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.LpTuB2bj9CrS"
+1586480358883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480358883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480360418	Marionette	INFO	Listening on port 57992
+1586480360639	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[ C1h4il996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14996, [Parent 3764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6104, Chro1586480378517	Marionette	INFO	Stopped listening on port 57992
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20888, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480386802	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.vxlR8M7KS2GR"
+1586480387181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480387181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480388663	Marionette	INFO	Listening on port 58075
+1586480388816	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24956, Chr[Child 23888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23888, [Parent 17400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24924, Chr1586480403264	Marionette	INFO	Stopped listening on port 58075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 25400, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480409439	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.D550aotg5Blb"
+1586480410628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480410628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480413655	Marionette	INFO	Listening on port 58156
+1586480414161	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26368[Child 20980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20980, Ch[Parent 8760, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8760, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1586480419449	Marionette	INFO	Stopped listening on port 58156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21704,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586480480374	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.nJG642YT7SHP"
+1586480481606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480481606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480483015	Marionette	INFO	Listening on port 58414
+1586480483487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tieba.baidu.com/index.html, line 307: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1586480670503	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.67L23nCTUyly"
+1586480671819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480671820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480673154	Marionette	INFO	Listening on port 58792
+1586480673617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586480936259	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.r0q4taau6Qkg"
+1586480936659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586480936660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586480938066	Marionette	INFO	Listening on port 59038
+1586480938275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1869[Parent 17140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20944, Chrome_[Parent 17140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23512, Ch1586481101083	Marionette	INFO	Stopped listening on port 59038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2094
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586481106457	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.ekUPmlOiQnhE"
+1586481108325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586481108325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586481109700	Marionette	INFO	Listening on port 59227
+1586481110072	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 60[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w1586481544414	Marionette	INFO	Listening on port 59494
+1586481544799	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20796, [Parent 15444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3820, Chro1586481756164	Marionette	INFO	Stopped listening on port 59494
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586481772727	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.j0wqiu2fwmQD"
+1586481774440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586481774441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586481776111	Marionette	INFO	Listening on port 59647
+1586481776343	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/memoryActor9, type detach failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol.js:1384:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol.js:1545:14\ndestroy@resource://devtools/client/memory/panel.js:59:11\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:2882:26\ndestroy@resource://devtools/client/framework/toolbox.js:2827:23\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:661:9\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:682:9\n", "resource://devtools/shared/protocol.js", 1317))
+[Parent 13444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child d8 89214, 40,C Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9140, C[Parent 13444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1586481922544	Marionette	INFO	Stopped listening on port 59647
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586482118897	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.OKAqfMZf8Lzn"
+1586482119275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1586482119275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1586482120761	Marionette	INFO	Listening on port 59986
+1586482120927	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[ Child332
+ 12144, Ch[Child r1ome_ChildThread] W40ARNIN44, ChGr: piope error: m1e09: fi_le z:/build/buCihlid/src/ipc/chrolmium/src/dcThrome/common/ipc_channel_win.cc, lhine r332
+ead] WARNING: pip[Childe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1586482240342	Marionette	INFO	Stopped listening on port 59986
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586527835421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.g7HywNocuEo6"
+1586527835712	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586527835743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586527835743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586527835743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586527835743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586527837636	Marionette	INFO	Listening on port 53251
+1586527838050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0004,name=PVsync::Msg_Unobserve) Channel error: cannot send/recv
+
+1586828923374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilexqCkyj"
+1586828924047	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586828924066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586828924066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586828924066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586828924066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586828926115	Marionette	INFO	Listening on port 61297
+1586828926614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586828954692	Marionette	INFO	Stopped listening on port 61297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586828960520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileK2V5n7"
+1586828960802	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586828960833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586828960833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586828960833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586828960833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586828962922	Marionette	INFO	Listening on port 61401
+1586828963133	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28936, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1586828977008	Marionette	INFO	Stopped listening on port 61401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586828985867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilehzWqoU"
+1586828986141	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586828986164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586828986164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586828986164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586828986164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586828987997	Marionette	INFO	Listening on port 61540
+1586828988478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586829097050	Marionette	INFO	Stopped listening on port 61540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586829101986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileUzOsxr"
+1586829102256	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586829102277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586829102277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586829102277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586829102277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586829104191	Marionette	INFO	Listening on port 61689
+1586829104595	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15724, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+1586829130377	Marionette	INFO	Stopped listening on port 61689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586829135329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileinGnlD"
+1586829135626	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586829135642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586829135642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586829135642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586829135642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586829137406	Marionette	INFO	Listening on port 61809
+1586829137444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586829181920	Marionette	INFO	Stopped listening on port 61809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586829187085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile4rEJgT"
+1586829187385	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586829187413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586829187413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586829187413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586829187413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586829189192	Marionette	INFO	Listening on port 61933
+1586829189694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586829234927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepu1YaL"
+1586829235187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586829235205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586829235205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586829235206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586829235206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586829236968	Marionette	INFO	Listening on port 62066
+1586829237044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586829919625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilevozfh9"
+1586829919899	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586829919917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586829919917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586829919918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586829919918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586829921779	Marionette	INFO	Listening on port 62480
+1586829922236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586829957720	Marionette	INFO	Stopped listening on port 62480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586830028149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileMaKbyj"
+1586830028471	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586830028501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586830028501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586830028501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586830028501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586830030517	Marionette	INFO	Listening on port 62633
+1586830030760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586830148380	Marionette	INFO	Stopped listening on port 62633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+ollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586830144698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586830144698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586830144698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586830144698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586830146612	Marionette	INFO	Listening on port 62770
+1586830146853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586830192097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVmfRq5"
+1586830192401	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586830192422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586830192422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586830192422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586830192422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586830194450	Marionette	INFO	Listening on port 62906
+1586830194707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586830354501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilebFMTHs"
+1586830354909	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586830354926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586830354926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586830354926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586830354926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586830356833	Marionette	INFO	Listening on port 63050
+1586830357238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586830423123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilebpE7g3"
+1586830423397	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586830423415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586830423416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586830423416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586830423416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586830425165	Marionette	INFO	Listening on port 63192
+1586830425244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586831113132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJ2E3Gd"
+1586831113406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586831113424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586831113424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586831113424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586831113424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586831115410	Marionette	INFO	Listening on port 63782
+1586831115748	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 28836, Chr
+###!!! [Child][MessageChannel] Error: (msgtype=0x690029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+o
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+me
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send1586831224364	Marionette	INFO	Stopped listening on port 64204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+cv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586831224282	Marionette	INFO	Stopped listening on port 63782
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1586836270232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileWuXskd"
+1586836270511	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586836270532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586836270532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586836270532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586836270532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586836272369	Marionette	INFO	Listening on port 50115
+1586836272842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586836306261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileiU5agQ"
+1586836306660	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586836306686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586836306686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586836306686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586836306686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586836308610	Marionette	INFO	Listening on port 50320
+1586836308872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586836664026	Marionette	INFO	Stopped listening on port 50320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+ollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586836557804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586836557804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586836557804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586836557804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586836559818	Marionette	INFO	Listening on port 50625
+1586836560014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586844515513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-proflibpng warning: iCCP: cHRM chunk does not match sRGB
+rofilev31LPX"
+1586844516011	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586844516041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586844516042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586844516042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586844516042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586844518717	Marionette	INFO	Listening on port 57056
+1586844519131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586844967809	Marionette	INFO	Stopped listening on port 57056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+ollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586844823989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586844823989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586844823989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586844823989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586844826037	Marionette	INFO	Listening on port 57276
+1586844826072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586845276964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilecN33Nb"
+1586845277278	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586845277301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586845277301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586845277301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586845277302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586845279092	Marionette	INFO	Listening on port 57646
+1586845279578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586845387272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileSohY3B"
+1586845387542	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586845387561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586845387561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586845387561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586845387561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586845389385	Marionette	INFO	Listening on port 57827
+1586845389884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586845434214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilezWJh4K"
+1586845434520	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586845434540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586845434540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586845434540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586845434541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586845436296	Marionette	INFO	Listening on port 57984
+1586845436365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586862568843&skey=%40crypt_a8c898ee_f28597fe3c9ddafaa08542986ed4f9df&sid=FgDjiNtufIqfs6su&uin=2263789282&deviceid=e682206711469686&synckey=1_708238538%7C2_708238558%7C3_708238551%7C11_708238514%7C19_210%7C201_1586861103%7C202_1586859112%7C203_1586857380%7C206_1%7C1000_1586851798%7C1001_1586852068&_=1586845438730, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586862585934&skey=%40crypt_a8c898ee_f28597fe3c9ddafaa08542986ed4f9df&sid=FgDjiNtufIqfs6su&uin=2263789282&deviceid=e171083677416997&synckey=1_708238538%7C2_708238560%7C3_708238551%7C11_708238514%7C19_210%7C201_1586862584%7C202_1586859112%7C203_1586857380%7C206_1%7C1000_1586861624%7C1001_1586852068&_=1586845438732, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586862588937&skey=%40crypt_a8c898ee_f28597fe3c9ddafaa08542986ed4f9df&sid=FgDjiNtufIqfs6su&uin=2263789282&deviceid=e718051463254520&synckey=1_708238538%7C2_708238560%7C3_708238551%7C11_708238514%7C19_210%7C201_1586862584%7C202_1586859112%7C203_1586857380%7C206_1%7C1000_1586861624%7C1001_1586852068&_=1586845438733, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586862620420&skey=%40crypt_a8c898ee_f28597fe3c9ddafaa08542986ed4f9df&sid=FgDjiNtufIqfs6su&uin=2263789282&deviceid=e342458707515478&synckey=1_708238538%7C2_708238560%7C3_708238551%7C11_708238514%7C19_210%7C201_1586862584%7C202_1586859112%7C203_1586857380%7C206_1%7C1000_1586861624%7C1001_1586852068&_=1586845438736, line 1: SyntaxError: illegal character
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 10170: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 12124: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 10170: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 12124: unreachable code after return statement
+1586947379060	addons.xpi	WARN	Download of http://mail.qq.com/zh_CN/xpi/TencentMailPlugin_1_0_1_56.xpi failed: Error: File C:\Users\DELL\AppData\Local\Temp\tmp-y2d.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 10170: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 12124: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 1685: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 10170: unreachable code after return statement
+JavaScript warning: https://rescdn.qqmail.com/zh_CN/htmledition/js/all4cf95e.js, line 12124: unreachable code after return statement
+1586947401627	addons.xpi	WARN	Download of http://mail.qq.com/zh_CN/xpi/TencentMailPlugin_1_0_1_56.xpi failed: Error: File C:\Users\DELL\AppData\Local\Temp\tmp-8li.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:670:11) JS Stack trace: loadManifest@XPIInstall.jsm:670:11
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: https://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/log42f400.js,/mmbizwap/zh_CN/htmledition/js/biz_common/dom/class42f400.js,/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/device4830e1.js,/mmbizwap/zh_CN/htmledition/js/appmsg/weapp_common48ce4f.js,/mmbizwap/zh_CN/htmledition/js/biz_common/utils/string/html42f400.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/list_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/card_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/banner_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/biz_common/tmpl485189.js,/mmbizwap/zh_CN/htmledition/js/appmsg/set_font_size4cff2b.js,/mmbizwap/zh_CN/htmledition/js/biz_wap/ui/weui4c46a0.js,/mmbizwap/zh_CN/htmledition/js/appmsg/index4d37f5.js, line 1294: SecurityError: Permission denied to access property "originalVideoAdFrames" on cross-origin object
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: https://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/log42f400.js,/mmbizwap/zh_CN/htmledition/js/biz_common/dom/class42f400.js,/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/device4830e1.js,/mmbizwap/zh_CN/htmledition/js/appmsg/weapp_common48ce4f.js,/mmbizwap/zh_CN/htmledition/js/biz_common/utils/string/html42f400.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/list_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/card_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/cps/tpl/banner_tpl.html4b3caf.js,/mmbizwap/zh_CN/htmledition/js/biz_common/tmpl485189.js,/mmbizwap/zh_CN/htmledition/js/appmsg/set_font_size4cff2b.js,/mmbizwap/zh_CN/htmledition/js/biz_wap/ui/weui4c46a0.js,/mmbizwap/zh_CN/htmledition/js/appmsg/index4d37f5.js, line 1294: SecurityError: Permission denied to access property "originalVideoAdFrames" on cross-origin object
+JavaScript warning: https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js, line 1: Script terminated by timeout at:
+pt@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1270925
+M@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1367884
+q@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1255580
+Zt@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1277117
+Qt@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1276335
+t.unstable_runWithPriority@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1373441
+zo@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1298448
+D@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1367661
+Xt@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1276150
+o@https://addons-amo.cdn.mozilla.net/amo-b0c05f0e64c5e3c153cb.js:1:1218465
+
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: https://color.firefox.com/index.js, line 65: ReferenceError: JsonUrl is not defined
+1586948305827	addons.xpi	WARN	Download of https://addons.cdn.mozilla.net/user-media/addons/1004409/firefox_color-2.1.5-fx.xpi?filehash=sha256%3Ad7d86292a277bc22b7dd68e64c77ba4df52e6ae602f55b4af31e9c32ded6a65f failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 179"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:179
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2419
+1586948309648	addons.xpi	WARN	Download of https://addons.cdn.mozilla.net/user-media/addons/1004409/firefox_color-2.1.5-fx.xpi?filehash=sha256%3Ad7d86292a277bc22b7dd68e64c77ba4df52e6ae602f55b4af31e9c32ded6a65f failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 179"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:179
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2419
+1586948317532	addons.xpi	WARN	Download of https://addons.cdn.mozilla.net/user-media/addons/1004409/firefox_color-2.1.5-fx.xpi?filehash=sha256%3Ad7d86292a277bc22b7dd68e64c77ba4df52e6ae602f55b4af31e9c32ded6a65f failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 179"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:179
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2419
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource://gre/modules/addonManager.js, line 256: NS_ERROR_NOT_INITIALIZED
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 51: TypeError: tab is null
+JavaScript error: chrome://browser/content/browser.js, line 7387: TypeError: WeakMap key must be an object, got permanentKey
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586955087916&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e868148932886082&synckey=1_708238934%7C2_708239029%7C3_708239026%7C11_708238900%7C19_210%7C201_1586954410%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586948206%7C1001_1586948894&_=1586948689401, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586955103199&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e386210749034096&synckey=1_708238934%7C2_708239032%7C3_708239026%7C11_708238900%7C19_210%7C201_1586954410%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586948206%7C1001_1586948894&_=1586948689404, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586955120505&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e721336260091313&synckey=1_708238934%7C2_708239032%7C3_708239026%7C11_708238900%7C19_210%7C201_1586954410%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586948206%7C1001_1586948894&_=1586948689405, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956491484&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e842832810247908&synckey=1_708238934%7C2_708239043%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956191%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689463, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956556617&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e066148804525845&synckey=1_708238934%7C2_708239044%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956191%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689466, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956952790&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e153886531911932&synckey=1_708238934%7C2_708239057%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956950%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689489, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956955805&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e504821670412913&synckey=1_708238934%7C2_708239057%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956950%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689490, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956965839&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e545705456796103&synckey=1_708238934%7C2_708239057%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956950%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689491, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956972864&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e736984894081441&synckey=1_708238934%7C2_708239058%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956970%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689493, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956981886&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e574157518469492&synckey=1_708238934%7C2_708239058%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956970%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689494, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956990915&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e214714233210589&synckey=1_708238934%7C2_708239058%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956970%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689495, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586956995925&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e230645773436150&synckey=1_708238934%7C2_708239058%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956970%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689496, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586957027146&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e109992535465322&synckey=1_708238934%7C2_708239058%7C3_708239026%7C11_708238900%7C19_210%7C201_1586956970%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586954942%7C1001_1586955258&_=1586948689499, line 1: SyntaxError: illegal character
+JavaScript error: https://webpush.wx.qq.com/cgi-bin/mmwebwx-bin/synccheck?r=1586995298495&skey=%40crypt_a8c898ee_085f8d2b9d9405f3945c8bf0b28fbafb&sid=dHoussh9KAB%2FBDpE&uin=2263789282&deviceid=e834094711665911&synckey=1_708238934%7C2_708239078%7C3_708239026%7C11_708238900%7C19_210%7C201_1586993808%7C202_1586954322%7C203_1586937712%7C206_1%7C1000_1586991110%7C1001_1586991854&_=1586948690931, line 1: SyntaxError: illegal character
