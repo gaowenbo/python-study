@@ -15,7 +15,8 @@ def main():
             "forget to activate a virtual environment?"
         ) from exc
     # execute_from_command_line(['D:/python/mysite/manage.py', 'startapp', 'polls'])
-    execute_from_command_line(['D:/python/mysite/manage.py', 'runserver', '8099'])
+
+    execute_from_command_line([sys.argv[0], 'runserver', '8099'])
 
 
 if __name__ == '__main__':
