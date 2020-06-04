@@ -14,7 +14,7 @@ def current_datetime(request):
 
 def gitPull(request):
     os.system("GIT_DIR=/root/python-study/.git/ git pull");
-    html = "<html><body>It is n3</body></html>"
+    html = "<html><body>It is n3e</body></html>"
     return HttpResponse(html)
 
 def wxArr(request):
