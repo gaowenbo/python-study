@@ -8,7 +8,7 @@ import datetime
 import os
 
 def current_datetime(request):
-    now = datetime.datetime.now()
+    now = datetime.datetime.now().timestamp()
     return HttpResponse(now)
 
 
