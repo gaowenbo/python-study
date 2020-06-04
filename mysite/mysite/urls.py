@@ -19,5 +19,6 @@ import polls.views
 
 urlpatterns = [
     path('articles/2003/', polls.views.current_datetime),
-    path('push', polls.views.gitPull)
+    path('push', polls.views.gitPull),
+    path('wxArr', polls.views.wxArr)
 ]
