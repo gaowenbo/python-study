@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-import polls.views
+
+from local.polls import views
 
 urlpatterns = [
-    path('articles/2003/', polls.views.current_datetime),
-    path('push', polls.views.gitPull),
-    path('wxOpen', polls.views.wxArr)
+    path('articles/2003/', views.current_datetime),
+    path('push', views.gitPull),
+    path('wxArr', views.wxArr)
 ]

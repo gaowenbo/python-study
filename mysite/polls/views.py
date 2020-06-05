@@ -1,6 +1,6 @@
 from django.shortcuts import render
 import pymysql
-
+import requests
 # Create your views here.
 
 from django.http import HttpResponse, FileResponse
@@ -17,7 +17,14 @@ def gitPull(request):
     html = "<html><body>It is n3e</body></html>"
     return HttpResponse(html)
 
-def wxArr(request):
+def wxOpen(request):
+
+    data = {
+                    "appid": 'wxf88cbbf220e72ba5',
+                    "secret": '60f06a66c1f425b1883dd4381d728ecb',
+                    "code":  request.GET.get('code', "0")
+                }
+    res = requests.get(url="https://api.weixin.qq.com/sns/jscode2session", data=data).text
     # db = pymysql.connect(host="47.95.49.67",
     #                      port=8066,
     #                      user="sidb",
@@ -36,4 +43,4 @@ def wxArr(request):
     # response = FileResponse(file)
     # response['Content-Type'] = 'application/octet-stream'
     # response['Content-Disposition'] = 'attachment;filename="wxArr.xls"'
-    return HttpResponse("")
+    return HttpResponse(res)
