@@ -24,7 +24,8 @@ def wxOpen(request):
                     "secret": '60f06a66c1f425b1883dd4381d728ecb',
                     "code":  request.GET.get('code', "0")
                 }
-    res = requests.get(url="https://api.weixin.qq.com/sns/jscode2session?appId=wxf88cbbf220e72ba5", data=data).text
+    res = requests.get(url="https://api.weixin.qq.com/sns/jscode2session?appId=wxf88cbbf220e72ba5&"
+                           "secret=60f06a66c1f425b1883dd4381d728ecb&code=" + request.GET.get('code', "0"), data=data).text
     # db = pymysql.connect(host="47.95.49.67",
     #                      port=8066,
     #                      user="sidb",
