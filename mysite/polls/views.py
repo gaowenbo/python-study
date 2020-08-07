@@ -45,3 +45,10 @@ def wxOpen(request):
     # response['Content-Type'] = 'application/octet-stream'
     # response['Content-Disposition'] = 'attachment;filename="wxArr.xls"'
     return HttpResponse(res)
+
+def getweather(request):
+    l = request.GET.get('longitude', "0")
+    t = request.GET.get('latitude', "0")
+    res = requests.get(url="http://api.map.baidu.com/telematics/v3/weather?location={},{}&output=json&ak=3253dd1e249d58370f8f9dc825099e4d".format(l, t)).text
+    return HttpResponse(res)
+

@@ -20,15 +20,17 @@ db = pymysql.connect(host="47.95.49.67",
 
 
 cur = db.cursor()
-cur.execute("select order_id, err_msg from zys_arrearage_order where pay_type = 2 and arre_status = 1 and fail_times > 10");
+cur.execute("select order_id, err_msg from zys_arrearage_order where arre_type = 2 and arre_status = 1 and supplier_id = 2654");
 res = cur.fetchall()
 # cur.execute("select shop_id,group_id from zys_shop_group limit 99999999")
 
 di1 = list(res)
 
-print("刷库语句")
+print("刷库语句" + str(len(di1)))
 for a in di1:
-    print("update zhiyunshan_trade_order{}.zys_arrearage_order set fail_times = 4 where order_id = '{}';"
+    print("update zhiyunshan_trade_order{}.zys_arrearage_order set arre_status = -1 where order_id = '{}';"
+          .format(str(int(a[0][6:8]) + 1), a[0]));
+    print("update zhiyunshan_trade_order{}.zys_order_info set pay_status = 5 where order_id = '{}';"
           .format(str(int(a[0][6:8]) + 1), a[0]));
 
 

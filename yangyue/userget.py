@@ -5,6 +5,7 @@ dic = json.loads(open("d:\\python\\source\\json2.txt", "r", encoding="utf-8").re
 arr = list(dic["records"])
 arrNew = []
 
+
 for a in arr:
     if a["ZCFZ"] != "0":
         a2 = []
